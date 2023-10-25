@@ -6,27 +6,27 @@ homepage:
 showcase:
   enable: true
   title: "Hello, I’m 정가영" # TODO: 이름 추가
-  subtitle: "Developer"
-  description: "안녕하세요" # TODO: 소개 추가
+  subtitle: "Backend Developer"
+  description: "안녕하세요 새로운 미래를 그려나가는 개발자" # TODO: 소개 추가
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
 
   socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com/" # TODO: linkedin 추가
+    # - icon: "linkedin"
+    #   URL: "https://www.linkedin.com/" # TODO: linkedin 추가
 
     - icon: "github"
-      URL: "https://github.com/" # TODO: github 추가
+      URL: "https://github.com/jrkdud" # TODO: github 추가
 
 # about
 about:
   enable: true
-  title: "Who am I?"
+  title: "My Skills"
   content: '<p class="lead">
     [소개내용 1문단]
-    </p>
+    </p> 
     <p class="lead">
     [소개내용 2문단]
     </p>' # TODO: 소개내용 추가
@@ -43,9 +43,9 @@ education:
   enable: true
   title: "Education"
   items: # TODO: 학력 추가
-    - university: "University of 학교명"
-      year: "[입학년도]-[졸업년도]"
-      degree: "[학위 및 전공]"
+    - university: "University of WonKwang"
+      year: "2020-03 ~ 2024-02"
+      degree: "컴퓨터소프트웨어공학과"
 
 # projects
 projects:
@@ -53,8 +53,8 @@ projects:
   enable: true
 
   works: # TODO: 프로젝트 추가
-    - title: "[프로젝트1]"
-      description: "[프로젝트 1 설명]"
+    - title: "장소 추천 서비스"
+      description: "위치 기반 소셜 네트워크로 다음 방문 장소 추천"
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
@@ -64,8 +64,8 @@ projects:
         _2x: "img/works/radity-finance@2x.jpg"
       is_even: true
 
-    - title: "[프로젝트2]"
-      description: "[프로젝트 2설명]"
+    - title: "Sonminsu"
+      description: "연예인 및 인플루언서의 패션 정보 커뮤니티"
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
@@ -87,10 +87,10 @@ contact:
     message: "Type Your Message Here"
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">[email 주소]</a>' # TODO: 이메일주소 추가
+    email: '<a href="mailto:team@radity.com">newgy28@naver.com</a>' # TODO: 이메일주소 추가
   address:
     title: "Address"
-    address: "[주소 (지역명)]" # TODO: 주소 추가
+    address: "전라북도 익산시 무왕로 26길 11-5" # TODO: 주소 추가
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
