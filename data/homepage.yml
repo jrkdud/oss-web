@@ -36,7 +36,7 @@ about:
     URL: "https://www.linkedin.com" # TODO: linkedin 추가
   image:
     x: "https://avatars.githubusercontent.com/u/84671326?v=4" # TODO: 프로필 이미지 주소 변경
-    _2x: "ihttps://avatars.githubusercontent.com/u/84671326?v=4@2x.png"
+    _2x: "ihttps://avatars.githubusercontent.com/u/84671326?v=4"
 
 # education
 education:
